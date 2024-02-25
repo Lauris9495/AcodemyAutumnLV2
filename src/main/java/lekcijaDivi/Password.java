@@ -14,7 +14,7 @@ public class Password {
             System.out.println("Parole nepareiza. Pieeja liegta!");
         } else {
             System.out.println("Parole ir pareiza!");
-            System.out.println("programmas beigas");
+            System.out.println("programmas beigām");
         }
     }
 }
