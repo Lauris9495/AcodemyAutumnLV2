@@ -9,7 +9,7 @@ public class Veselesanas {public static void main(String[] args) {
         System.out.println("Drīkst balsot!!!");
         System.out.println("Drīkst balsot!!!");
         if (vecums > 90) {
-            System.out.println("Jāveic veselības pārbaude");
+            System.out.println("Jāveic veselības pārbaudei");
         }
         System.out.println("Drīkst balsot!!!");
         System.out.println("Drīkst balsot!!!");
